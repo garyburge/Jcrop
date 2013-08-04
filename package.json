@@ -1,0 +1,14 @@
+{
+    "name": "Jcrop",
+    "description": "A fork of tapmodo/Jquery, to allow use with Composer",
+    "author": "Kelly Hallman",
+    "contributors": [
+        {
+            "name": "Kelly Hallman"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/garyburge/Jcrop.git"
+    },
+}

@@ -1,0 +1,22 @@
+{
+    "name": "garyburge/Jcrop",
+    "description": "A fork of tapmodo/Jquery, to allow use with Composer",
+    "keywords": [
+        "yii",
+        "module",
+        "cms",
+        "Jcrop"
+    ],
+    "homepage": "https://github.com/garyburge/Jcrop",
+    "type": "yii-extension",
+    "license": "MIT License",
+    "version": "dev-master",
+    "authors": [
+        {
+            "name": "Kelly Hallman"
+        }
+    ],
+    "require": {
+        "php": ">=5.1.0"
+    }
+}
